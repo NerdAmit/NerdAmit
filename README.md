@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **demo login flutter app**
 
-- 🌱 I’m learning **flutter**
+- 🌱 learning **flutter**
 
 - 💬 Ask me about **flutter**
 
