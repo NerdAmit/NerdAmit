@@ -1,3 +1,4 @@
+![logo](https://github.com/NerdAmit/NerdAmit/blob/f7545bb3454dbb80ecbc8d533e7b87179d4d2aed/GITHUB.jpg)
 <h1 align="center">Hi 👋, I'm Amit Sharma</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
